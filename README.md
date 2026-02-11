@@ -1,4 +1,4 @@
-# **HCMNet (Hierarchical Cross-modal Network) Project Documentation**
+# **HCMNet (Hierarchical Cross-modal Network)**
 
 HCMNet is a humor and sarcasm recognition system based on Graph Neural Networks (GNN) and cross-modal fusion technology. This project integrates three modalities—text, audio, and video—and utilizes a hierarchical structure for feature extraction and contextual modeling.
 
